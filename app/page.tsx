@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      <p>Hello world Ethereum</p>
+      <p>Hello world Ethereum Solidity</p>
     </div>
   );
 }
